@@ -1,1 +1,0 @@
-# practices-from-a-greenhand
